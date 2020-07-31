@@ -1,0 +1,42 @@
+
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
+
+textarea {
+    border-radius: 30px;
+    resize: none;
+    overflow: auto;
+}
+
+input[type=file] {
+    display: none;
+}
+
+input[type=date] {
+    cursor: pointer;
+    border: none;
+    padding: -20px;
+    outline: none;
+    background: transparent;
+}
+
+input[type=date]:hover {
+    color: rgba(0, 0, 0, 0.548);
+}
+
+
+
+.image-upload-label {
+    cursor: pointer;
+    height: 3rem;
+    width: 10rem;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-upload-label:hover {
+    color: rgba(0, 0, 0, 0.712);
+}

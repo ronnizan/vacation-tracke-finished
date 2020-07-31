@@ -1,0 +1,16 @@
+.button-navbar {
+    background: none ;
+    outline: none !important;
+    border: none  !important;
+    
+}
+.button-navbar-username {
+    background: none ;
+    outline: none !important;
+    border: none  !important;
+    cursor: default !important;
+}
+.navbar{
+    font-size: large;
+    color: white !important;
+}

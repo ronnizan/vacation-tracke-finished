@@ -1,0 +1,61 @@
+.fa-thumbs-o-up {
+    color: rgb(7, 6, 6);
+    font-size: larger;
+    font-family: cursive !;
+}
+
+.follow-Wrapper-followed {
+    cursor: pointer;
+    position: absolute;
+    left: 5px;
+    border: 1px solid black;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 50%;
+    font-size: 2rem;
+    background-color:rgba(0, 128, 0, 0.651);
+}
+.follow-Wrapper-unfollowed {
+    cursor: pointer;
+    position: absolute;
+    left: 5px;
+    border: 1px solid black;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 50%;
+    font-size: 2rem;
+}
+
+.followers-Wrapper {
+    position: absolute;
+    background-color: antiquewhite;
+    font-size: 2rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    box-shadow: 2px 2px;
+    padding: 6px;
+    padding-right: 12px;
+    padding-left: 12px;
+    bottom: 0.26rem;
+    right: 10px;
+    cursor: default;
+}
+
+.card-img-top {
+    height: 14rem;
+}
+
+
+
+.card {
+    background-color: rgba(255, 255, 255, 0.733);
+    height: 35rem;
+    margin-bottom: 1rem;
+    border-radius: 1.5rem;
+}
+
+.card-text-description{
+    height: 8rem;
+    overflow-y: auto;
+}
+

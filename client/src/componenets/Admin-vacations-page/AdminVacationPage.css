@@ -1,0 +1,49 @@
+
+
+.edit-Wrapper {
+    cursor: pointer;
+    position: absolute;
+    left: 5px;
+    border: 1px solid black;
+    padding-right: 12px;
+    padding-left: 12px;
+    border-radius: 50%;
+    font-size: 2rem;
+    background-color:grey;
+}
+.delete-Wrapper {
+    cursor: pointer;
+    position: absolute;
+    top: 60px;
+    left: 5px;
+    border: 1px solid black;
+    padding-right: 15px;
+    padding-left: 12px;
+    border-radius: 50%;
+    font-size: 2rem;
+    background-color:grey;
+}
+
+
+.followers-Wrapper {
+    position: absolute;
+    font-size: 2rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    box-shadow: 2px 2px;
+    padding: 6px;
+    padding-right: 12px;
+    padding-left: 12px;
+    bottom: 0.26rem;
+    right: 10px;
+    cursor: default;
+}
+
+.card-img-top {
+    height: 14rem;
+}
+
+.card {
+    min-height: 30rem;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,9 @@
+.register-btn {
+    color: white;
+    text-decoration: none !important;
+}
+
+.text-uppercase:hover {
+    color: black;
+    text-decoration: none !important;
+}
